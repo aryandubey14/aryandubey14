@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aryandubey14
-- 👀 I’m interested in coding and 3-D modelling
+- 👀 I’m interested in Game Programming and 3-D modelling
 - 🌱 I’m currently learning at UPES,Dehradun
 - 📫 Reach me via instagram @aryan.dubey14
 
