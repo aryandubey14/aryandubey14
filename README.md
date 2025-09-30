@@ -27,14 +27,16 @@
 ## 💻 Tech Stack:
 
 <div>
-    <img src="https://skillicons.dev/icons?i=cpp,c,cs,python,fastapi,html,css,unity,firebase,blender,canva,git,github,mysql,mongodb" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,cs,java,python,fastapi,html,css,unity,firebase,react,blender,ae,adobe,canva,git,github,mysql,mongodb" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryandubey14/aryandubey14/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryandubey14/aryandubey14/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/aryandubey14/aryandubey14/output/github-snake.svg" />
-</picture>
+---
+
+### 🐍 Watch my contribution graph get eaten by the snake
+![github contribution grid snake animation](https://raw.githubusercontent.com/aryandubey14/aryandubey14/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/aryandubey14/aryandubey14/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+---
 
 ### 🔝 Top Contributed Repo
 ![GitHub Stats](https://github-contributor-stats.vercel.app/api?username=aryandubey14&limit=5&theme=github_dark&combine_all_yearly_contributions=true)
