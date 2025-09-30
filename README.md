@@ -1,6 +1,7 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=700&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Dubey!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&color=FFA500&center=true&vCenter=true&width=700&height=90&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Dubey!;" />
 </h1>
+
 <h3>A passionate software developer from India</h3>
 
 <br/>
