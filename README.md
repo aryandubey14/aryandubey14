@@ -8,8 +8,8 @@
 <div>
   🎓 I'm a final-year Computer Science major, passionate about building immersive and scalable tech experiences.<br/>
   🔭 I'm well versed in Unity Development spanning from 3D, 2D and XR to general purpose applications<br/>
-    🤖 I'm deeply passionate about Artificial Intelligence & Machine Learning, and currently exploring its real-world applications.<br/>
-  ⚡ Fun fact: <em> The first computer bug was a real moth found stuck in a Harvard Mark II computer in 1947. Grace Hopper and her team taped it into their logbook with the note: “First actual case of bug being found.”</em>
+  🤖 I'm deeply passionate about Artificial Intelligence & Machine Learning, and currently exploring its real-world applications.<br/>
+  ⚡ <em> Fun fact: The QWERTY keyboard layout was designed in the 1870s not for speed, but to slow down typists so typewriters wouldn’t jam.</em>
 </div>
 <br/>
 
