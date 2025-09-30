@@ -4,6 +4,13 @@ on:
   schedule: # Runs every 24 hours
     - cron: "0 0 * * *"
   workflow_dispatch: # Allow manual trigger
+  push: # Also run on every push to main
+    branches:
+      - main
+
+# Ensure actions can push to branches
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -26,4 +33,5 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          # Use PERSONAL_TOKEN if it exists, otherwise fallback to GITHUB_TOKEN
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN || secrets.GITHUB_TOKEN }}
