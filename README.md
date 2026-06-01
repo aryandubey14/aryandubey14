@@ -67,39 +67,97 @@
 
 
 
-## ✔️ Recently Contributed Repositories
+## 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+<h3 align="center">🕵️ IntelliTrace</h3>
 <p align="center">
-  <a href="https://github.com/aryandubey14/ClueBot-Crossword">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandubey14&repo=ClueBot-Crossword&theme=github_dark" />
-  </a>
-  <a href="https://github.com/aryandubey14/MapNavigationByAryanDubey500109841">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandubey14&repo=MapNavigationByAryanDubey500109841&theme=github_dark" />
-  </a>
+AI-powered Crime Scene Reconstruction in Unity with ML anomaly detection, contradiction analysis, and 3D timeline investigation.
+<br><br>
+
+<img src="https://img.shields.io/badge/Unity-3D-black?style=for-the-badge&logo=unity"/>
+<img src="https://img.shields.io/badge/AI%2FML-TensorFlow-orange?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Cloud-Integrated-blue?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/aryandubey14">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
+</a>
 </p>
+</td>
+
+<td width="50%">
+<h3 align="center">🐔 AR Poultry Care</h3>
 <p align="center">
-  <a href="https://github.com/aryandubey14/SeaWays">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandubey14&repo=SeaWays&theme=github_dark" />
-  </a>
-  <a href="https://github.com/aryandubey14/Coffee-Shop-Simulator">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandubey14&repo=Coffee-Shop-Simulator&theme=github_dark" />
-  </a>
+AR-based chicken disease detection using image classification with Unity, AR Foundation & TensorFlow.
+<br><br>
+
+<img src="https://img.shields.io/badge/AR-Foundation-red?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Unity-C%23-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ML-EfficientNet-success?style=for-the-badge"/>
+
+<br><br>
+
+<a href="https://github.com/aryandubey14">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
+</a>
 </p>
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+<h3 align="center">🌾 AgriQuest</h3>
 <p align="center">
-  <a href="https://github.com/aryandubey14/OpenGL_Projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=aryandubey14&repo=OpenGL_Projects&theme=github_dark" />
-  </a>
+Gamified AgriTech mobile app helping farmers adopt sustainable farming practices through personalized quests, rewards, and community engagement.
+<br><br>
+    
+<img src="https://img.shields.io/badge/Unity-C%23-black?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Firebase-Backend_&_Database-orange?style=for-the-badge&logo=firebase"/>
+
+<br><br>
+
+<a href="https://github.com/aryandubey14/AgriQuest">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
+</a>
 </p>
+</td>
 
+<td width="50%">
+<h3 align="center">🎮 OpenGL Projects</h3>
+<p align="center">
+Graphics programming, dynamic cameras, flood fill, rendering and interactive systems in OpenGL.
+<br><br>
 
+<img src="https://img.shields.io/badge/OpenGL-C%2B%2B-blue?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Graphics-Programming-red?style=for-the-badge"/>
 
+<br><br>
 
+<a href="https://github.com/aryandubey14/OpenGL_Projects">
+<img src="https://img.shields.io/badge/View_Project-2ea44f?style=for-the-badge"/>
+</a>
+</p>
+</td>
 
+</tr>
+</table>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=aryandubey14&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![Aryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=aryandubey14&show_icons=true&theme=github_dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aryandubey14&layout=compact&theme=github_dark)
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=aryandubey14&theme=github_dark"/>
+
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aryandubey14&theme=github_dark"/>
+</p>
 
 
 ## 📊 My Contributions Graph
