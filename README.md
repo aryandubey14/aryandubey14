@@ -91,7 +91,7 @@ AI-powered Crime Scene Reconstruction in Unity with ML anomaly detection, contra
 </td>
 
 <td width="50%">
-<h3 align="center">🐔 AR Poultry Care</h3>
+<h3 align="center">🐔 Poultry Care</h3>
 <p align="center">
 AR-based chicken disease detection using image classification with Unity, AR Foundation & TensorFlow.
 <br><br>
